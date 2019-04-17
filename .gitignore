@@ -1,0 +1,11 @@
+*~
+cabal.project.local
+.ghc.environment.*
+*/dist/*
+dist-newstyle/*
+.ghci
+result
+.*.sw[a-p]
+tags
+.shelly/
+dist/
